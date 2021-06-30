@@ -1,5 +1,7 @@
 public class xyz
-{ 
- public static void main(String args[])
-{ 
-for(i=0;i<10;i++)
+{
+	public static void main(String args[])
+	{
+		System.out.println("zyx");
+	}
+}
